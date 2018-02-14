@@ -40,7 +40,7 @@ if( !isset($_SESSION['user_id']) ){
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/sms3/assets/style.css" type="text/css">
+    <link rel="stylesheet" href="/sms3/styles/style.css" type="text/css">
 </head>
 <body>
     <div class="header">

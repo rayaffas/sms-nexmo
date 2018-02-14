@@ -41,7 +41,7 @@ endif;
 <html>
 <head>
     <title>Login Below</title>
-    <link rel="stylesheet" href="/sms3/assets/login_styles.css" type="text/css">
+    <link rel="stylesheet" href="/sms3/styles/login_styles.css" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
 </head>
 
